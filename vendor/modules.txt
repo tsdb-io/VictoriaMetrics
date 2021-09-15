@@ -196,7 +196,7 @@ github.com/valyala/bytebufferpool
 ## explicit
 github.com/valyala/fastjson
 github.com/valyala/fastjson/fastfloat
-# github.com/valyala/fastrand v1.0.0
+# github.com/valyala/fastrand v1.1.0
 ## explicit
 github.com/valyala/fastrand
 # github.com/valyala/fasttemplate v1.2.1
