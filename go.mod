@@ -27,7 +27,7 @@ require (
 	golang.org/x/net v0.0.0-20220114011407-0dd24b26b47d
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9
-	google.golang.org/api v0.65.0
+	google.golang.org/api v0.66.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
