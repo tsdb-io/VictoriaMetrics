@@ -8,10 +8,10 @@ cloud.google.com/go/internal/version
 # cloud.google.com/go/compute v1.0.0
 ## explicit; go 1.11
 cloud.google.com/go/compute/metadata
-# cloud.google.com/go/iam v0.1.0
+# cloud.google.com/go/iam v0.1.1
 ## explicit; go 1.11
 cloud.google.com/go/iam
-# cloud.google.com/go/storage v1.18.2
+# cloud.google.com/go/storage v1.20.0
 ## explicit; go 1.11
 cloud.google.com/go/storage
 cloud.google.com/go/storage/internal/apiv2
@@ -126,8 +126,8 @@ github.com/golang/protobuf/ptypes/timestamp
 # github.com/golang/snappy v0.0.4
 ## explicit
 github.com/golang/snappy
-# github.com/google/go-cmp v0.5.6
-## explicit; go 1.8
+# github.com/google/go-cmp v0.5.7
+## explicit; go 1.11
 github.com/google/go-cmp/cmp
 github.com/google/go-cmp/cmp/internal/diff
 github.com/google/go-cmp/cmp/internal/flags
@@ -304,7 +304,7 @@ golang.org/x/text/unicode/norm
 ## explicit; go 1.11
 golang.org/x/xerrors
 golang.org/x/xerrors/internal
-# google.golang.org/api v0.65.0
+# google.golang.org/api v0.66.0
 ## explicit; go 1.11
 google.golang.org/api/googleapi
 google.golang.org/api/googleapi/transport
@@ -337,7 +337,7 @@ google.golang.org/appengine/internal/socket
 google.golang.org/appengine/internal/urlfetch
 google.golang.org/appengine/socket
 google.golang.org/appengine/urlfetch
-# google.golang.org/genproto v0.0.0-20220114231437-d2e6a121cae0
+# google.golang.org/genproto v0.0.0-20220201184016-50beb8ab5c44
 ## explicit; go 1.11
 google.golang.org/genproto/googleapis/api/annotations
 google.golang.org/genproto/googleapis/iam/v1
