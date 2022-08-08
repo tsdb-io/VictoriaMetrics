@@ -150,8 +150,8 @@ github.com/googleapis/gax-go/v2
 github.com/googleapis/gax-go/v2/apierror
 github.com/googleapis/gax-go/v2/apierror/internal/proto
 github.com/googleapis/gax-go/v2/internal
-# github.com/influxdata/influxdb v1.9.8
-## explicit; go 1.17
+# github.com/influxdata/influxdb v1.10.0
+## explicit; go 1.18
 github.com/influxdata/influxdb/client/v2
 github.com/influxdata/influxdb/models
 github.com/influxdata/influxdb/pkg/escape
